@@ -1,3 +1,3 @@
-Hellow World!
+Hello World!
 
-I am Tom, here to do things and thangs.
+I am Tom.
