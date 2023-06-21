@@ -1,3 +1,1 @@
-Hello World, am Taam.
-
-Ta Taam! 🎉
+Just your average online presence 🦊
